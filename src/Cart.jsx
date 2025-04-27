@@ -94,10 +94,11 @@ function Cart() {
         </table>
       </div>
       {/* <div className="product-footer">
-        <h4>Terms and conditions</h4>
+        <h4>Terms and and conditions</h4>
       </div> */}
     </div>
   );
 }
+
 
 export default Cart;
