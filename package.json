@@ -11,7 +11,7 @@
     "copy404": "copy dist\\index.html dist\\404.html",
     "deploy": "vite build && npm run copy404 && gh-pages -d dist"
   },
-  "homepage": "https://aruljothimoorthy.github.io/Ecommerce-RJ/",
+  "homepage": "https://aruljothimoorthy.github.io/E-Commerse/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
